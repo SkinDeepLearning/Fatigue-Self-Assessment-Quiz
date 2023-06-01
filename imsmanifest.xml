@@ -61,9 +61,8 @@
   <resources>
     <resource identifier="_Fatigue_Self-Assessment_Quiz_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
-      <file href="mobile/6cZOHeWOtSG_80_DX342_DY342_CX264_CY73.png" />
-      <file href="mobile/6cZOHeWOtSG_80_DX170_DY170_CX130_CY36.png" />
-      <file href="mobile/6iju2yOy1EZ_80_P_22_24_1151_942_DX1340_DY1340_CX959_CY785.png" />
+      <file href="mobile/6cZOHeWOtSG.png" />
+      <file href="mobile/6iju2yOy1EZ_P_22_24_1151_942.png" />
       <file href="meta.xml" />
       <file href="story_content/user.js" />
       <file href="mobile/Slide6FxvlWYNn89.jpg" />
@@ -83,6 +82,7 @@
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
       <file href="html5/lib/scripts/bootstrapper.min.js" />
       <file href="html5/lib/scripts/frame.desktop.min.js" />
       <file href="html5/lib/scripts/frame.mobile.min.js" />
